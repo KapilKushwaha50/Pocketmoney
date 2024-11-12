@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../../Downloads/login-page-with-background-image/login-page-with-background-image"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "PocketMoneyProject"
+	}
+}
